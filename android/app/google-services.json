@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555936791272",
+    "firebase_url": "https://boomer-699d4.firebaseio.com",
+    "project_id": "boomer-699d4",
+    "storage_bucket": "boomer-699d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555936791272:android:20fa5efa89d42a52a4e75d",
+        "android_client_info": {
+          "package_name": "com.sponikle.boomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555936791272-kjv340ld9li21c7lmk8jbos5ka6pe23q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sponikle.boomer",
+            "certificate_hash": "bf33ce9626a28564ac041be2ae3159deb4070fdb"
+          }
+        },
+        {
+          "client_id": "555936791272-0bmnclchpg4bjeqs36sgq2g3g8sjp1nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqewxa7WRqBGWpK884cS4GXfey3Mbrdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555936791272-0bmnclchpg4bjeqs36sgq2g3g8sjp1nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
